@@ -18,8 +18,8 @@ Home = React.createClass({
     return (
       <Grid>
         <h1>Scavenger Hunt</h1>
-        <h2> <a href="/create">Create Hunt</a> </h2>
-        <h2> <a href="/join">Join Hunt</a> </h2>
+        <h2> <p className="text-center"> <a href="/create">Create Hunt</a> </p> </h2>
+        <h2> <p className="text-center"> <a href="/join">Join Hunt</a> </p> </h2>
       </Grid>
     );
   }

@@ -28,9 +28,8 @@ Join = React.createClass({
   render() {
     return (
       <Grid>
-        <h1>Join</h1>
-        <h2>Open Hunts</h2>
-        { this.renderHunts() }
+        <h1> <p className="text-center"> Join </p> </h1>
+        <p className="text-center">{ this.renderHunts() }</p>
       </Grid>
     );
   }
