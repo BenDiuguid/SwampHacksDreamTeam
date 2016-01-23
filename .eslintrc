@@ -19,7 +19,7 @@
   },
   "rules": {
     "indent": 0,
-    "linebreak-style": [ 2, "unix" ],
+    "linebreak-style": 0,
     "semi": [ 2, "always" ],
     "no-undef": 0,
     "no-console": 0,
