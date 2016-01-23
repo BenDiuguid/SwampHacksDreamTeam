@@ -17,7 +17,8 @@ Home = React.createClass({
   render() {
     return (
       <Grid>
-        <h1>Join a Hunt!</h1>
+        <h1>Scavenger Hunt</h1>
+        <h2>Join Hunt</h2>
       </Grid>
     );
   }
